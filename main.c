@@ -42,7 +42,7 @@ void display(char **Grille, int nbLignes, int nbColonnes)
 {
     for (int i = 0; i < nbLignes; i++)
     {
-       if (i != 0) printf("-----------\n"); ;  
+       if (i != 0) printf("-----------\n");  
         for (int j = 0; j < nbColonnes; j++)
         {
             if(j == 0){
