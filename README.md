@@ -1,6 +1,7 @@
 # Tic-Tac-Toe en C
 
-Ce projet est une implémentation du jeu Tic-Tac-Toe en langage C. Il s'agit d'un simple jeu de morpion pour deux joueurs en console.
+Ce projet est une implémentation du jeu Tic-Tac-Toe en langage C.
+Il s'agit d'un simple jeu de morpion pour deux joueurs en console.
 
 ## Fonctionnalités
 - Mode 2 joueurs.
