@@ -32,7 +32,7 @@ int checkCoordonees(char **Grille, coordonees coord, int nbLignes , int nbColonn
 
     if(Grille[coord.ligne-1][coord.colonne-1] != ' ')
     {
-        printf("Erreur : Casse deja prise !\n");
+        printf("Erreur : Case deja prise !\n");
         return 0;
     }
     return 1 ;
